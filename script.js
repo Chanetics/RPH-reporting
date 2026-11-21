@@ -9,7 +9,7 @@ const S=[
  {h:NAMES[3],l:["Impeachment history","Sara Duterte, first case (2022 to 2026)"]},
  {h:NAMES[4],l:["Sara Duterte, second case and trial (2026)","Wrap-up"]}],n:3},
 {tag:P[0],fx:"pillars",title:"Article IX: Constitutional Commissions",sub:"Three independent commissions: CSC, COMELEC and COA",cols:[
- {h:"Four parts",ic:"build",l:["Common Provisions (7 sections)","CSC (8)","COMELEC (11)","COA (4)"]},
+ {h:"Four parts",ic:"build",l:["Common Provisions (8 sections)","CSC (8)","COMELEC (11)","COA (4)"]},
  {h:"Current heads",ic:"person",l:["COMELEC: George Erwin M. Garcia","CSC: Marilyn B. Barua-Yap","COA: Vacant since Nov 13, 2026 (Cordoba was named to the Supreme Court)"]}]},
 {tag:P[0],fx:"members",title:"Members and special rules",cols:[
  {h:"CSC: Chair + 2",ic:"person",l:["Must have proven capacity for public administration"]},
